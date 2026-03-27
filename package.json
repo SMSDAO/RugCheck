@@ -29,6 +29,6 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.1"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
   }
 }
